@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xgothboi) 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=kenzx23&color=blue&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=KennedyProject&color=blue&style=flat-square&label=Profile+Views)
 ### Stats:
 <p align="center"><a href="https://github.com/KennedyProject"><img src="https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/KennedyProject"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyProject&theme=radical&layout=compact"></a></p> 
