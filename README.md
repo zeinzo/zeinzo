@@ -1,4 +1,4 @@
-## Holaaa <img src="https://github.com/zeinzo/zeinzo/blob/master/Assets/Hi.gif" width="29px"> I'm zeinzo
+## Holaaa 👋🏻 I'm zeinzo
 ___
 
 <img src="https://telegra.ph/file/146c277c12f83e1db0b21.jpg" />
