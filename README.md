@@ -9,12 +9,12 @@ ___
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/rakaaanjayy" target="blank"><img src="https://img.shields.io/badge/@rakaaanjayy-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/tdrki_1" target="blank"><img src="https://img.shields.io/badge/@tdrki_1-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/knsgnwn_" target="blank"><img src="https://img.shields.io/badge/@knsgnwn_-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeinzo)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeinzk)
 
 </details
